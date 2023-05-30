@@ -33,11 +33,16 @@ cd simple-shop-nodejs
 npm install
 ```
 
-3. Set environment variables:
+3. create a mongodb:
 
-```
-cp .env.example .env
-```
+  - create a cluster 
+  - add a username
+  - set up ip address to your current ip address
+  - add your connection
+  ```
+   mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]
+  ```
+
 
 Replace the values in .env with your own values.
 
