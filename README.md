@@ -23,7 +23,7 @@ This is a simple e-commerce web application built using Node.js. The application
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/0xHady/shop-app.git
+git@github.com:OsamaNagi/shop.js.git
 ```
 
 2. Install the depenedencies:
@@ -44,7 +44,7 @@ npm install
   ```
 
 
-Replace the values in .env with your own values.
+Replace the values in app.js with your own values.
 
 4. Start the application:
 
