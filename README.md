@@ -29,7 +29,7 @@ git@github.com:OsamaNagi/shop.js.git
 2. Install the depenedencies:
 
 ```
-cd simple-shop-nodejs
+cd shop
 npm install
 ```
 
